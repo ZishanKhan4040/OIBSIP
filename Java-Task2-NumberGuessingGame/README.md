@@ -199,7 +199,7 @@ OIBSIP/
 **YOUR FULL NAME**
 Java Development Intern at Oasis Infobyte
 
-- LinkedIn: [your-linkedin-url]([https://www.linkedin.com/in/zishankhan](https://www.linkedin.com/in/zishan-khan-97910a290?utm_source=share_via&utm_content=profile&utm_medium=member_android))
-- GitHub: [your-github-username](https://github.com/ZishanKhan4040)
+- LinkedIn: [https://www.linkedin.com/in/zishan-khan-97910a290?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- GitHub: [ZishanKhan4040](https://github.com/ZishanKhan4040)
 
 #oasisinfobyte #OIBSIP
