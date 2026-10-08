@@ -182,15 +182,15 @@ OIBSIP/
 
 | Difficulty Menu | Winning Round |
 |-----------------|---------------|
-| ![Difficulty menu](screenshots/01-difficulty-menu.png) | ![Winning round](screenshots/02-winning-round.png) |
+| ![Difficulty menu](screenshots/Screenshot1.png) | ![Winning round](screenshots/Screenshot4.png) |
 
 | Losing Round | Input Validation |
 |--------------|------------------|
-| ![Losing round](screenshots/03-losing-round.png) | ![Input validation](screenshots/04-input-validation.png) |
+| ![Losing round](screenshots/Screenshot2.png) | ![Input validation](screenshots/Screenshot4.png) |
 
 | Game Summary |
 |--------------|
-| ![Game summary](screenshots/05-game-summary.png) |
+| ![Game summary](screenshots/Screenshot5.png) |
 
 ---
 
@@ -199,7 +199,7 @@ OIBSIP/
 **YOUR FULL NAME**
 Java Development Intern at Oasis Infobyte
 
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
-- GitHub: [your-github-username](https://github.com/YOUR-USERNAME)
+- LinkedIn: [your-linkedin-url]([https://www.linkedin.com/in/zishankhan](https://www.linkedin.com/in/zishan-khan-97910a290?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- GitHub: [your-github-username](https://github.com/ZishanKhan4040)
 
 #oasisinfobyte #OIBSIP
