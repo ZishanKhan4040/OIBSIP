@@ -178,7 +178,6 @@ OIBSIP/
 
 ## Screenshots
 
-> Add your screenshots to the `screenshots/` folder and update the file names below.
 
 | Difficulty Menu | Winning Round |
 |-----------------|---------------|
@@ -196,7 +195,7 @@ OIBSIP/
 
 ## Author
 
-**YOUR FULL NAME**
+**Zishan Khan**
 Java Development Intern at Oasis Infobyte
 
 - LinkedIn: [https://www.linkedin.com/in/zishan-khan-97910a290?utm_source=share_via&utm_content=profile&utm_medium=member_android]
