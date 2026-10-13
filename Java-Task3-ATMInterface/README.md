@@ -85,22 +85,39 @@ Java-Task3-ATMInterface/
 
 ## Screenshots
 
-Capture these from the real running program (`screenshots/` folder):
+### 1. Login
+![Login](screenshots/01-login.png)
 
-1. Login screen (`ATM LOGIN` prompt)
-2. Successful login message
-3. Main ATM menu
-4. Deposit transaction
-5. Withdrawal transaction
-6. Transfer transaction
-7. Transaction history (after several operations)
-8. Insufficient balance / invalid input error handling
-9. Maximum login attempts exceeded
-10. Quit message
+### 2. Successful Login
+![Login Success](screenshots/02-login-success.png)
+
+### 3. ATM Menu
+![Menu](screenshots/03-menu.png)
+
+### 4. Deposit
+![Deposit](screenshots/04-deposit.png)
+
+### 5. Withdraw
+![Withdraw](screenshots/05-withdraw.png)
+
+### 6. Transfer
+![Transfer](screenshots/06-transfer.png)
+
+### 7. Transaction History
+![History](screenshots/07-history.png)
+
+### 8. Error Handling
+![Errors](screenshots/08-error-handling.png)
+
+### 9. Maximum Login Attempts
+![Max Attempts](screenshots/09-max-attempts.png)
+
+### 10. Quit
+![Quit](screenshots/10-quit.png)
 
 The `.txt` files already in `screenshots/` are real console output captured from test runs and
 can be used as a reference for what each screen should look like.
 
 ## Author
 
-*Your Full Name* — OASIS INFOBYTE Java Development Intern
+*Zishan Khan* — OASIS INFOBYTE Java Development Intern
